@@ -9,7 +9,8 @@
         "potter/aware": "dev-main",
         "potter/clock": "dev-main",
         "potter/cloneable": "dev-main",
-        "potter/container": "dev-main"
+        "potter/container": "dev-main",
+        "potter/link": "dev-main"
     },
     "license": "MIT",
     "authors": [
