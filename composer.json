@@ -8,7 +8,8 @@
         "potter/traits": "dev-main",
         "potter/aware": "dev-main",
         "potter/clock": "dev-main",
-        "potter/cloneable": "dev-main"
+        "potter/cloneable": "dev-main",
+        "potter/container": "dev-main"
     },
     "license": "MIT",
     "authors": [
