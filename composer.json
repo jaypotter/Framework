@@ -6,12 +6,7 @@
         "php": "^8.3",
         "potter/contracts": "dev-main",
         "potter/traits": "dev-main",
-        "potter/aware": "dev-main",
-        "potter/clock": "dev-main",
-        "potter/cloneable": "dev-main",
-        "potter/container": "dev-main",
-        "potter/link": "dev-main",
-        "potter/logger": "dev-main"
+        "potter/components": "dev-main"
     },
     "license": "MIT",
     "authors": [
