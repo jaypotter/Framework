@@ -6,7 +6,8 @@
         "php": "^8.3",
         "potter/contracts": "dev-main",
         "potter/traits": "dev-main",
-        "potter/aware": "dev-main"
+        "potter/aware": "dev-main",
+        "potter/clock": "dev-main"
     },
     "license": "MIT",
     "authors": [
