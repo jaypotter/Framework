@@ -7,7 +7,8 @@
         "potter/contracts": "dev-main",
         "potter/traits": "dev-main",
         "potter/aware": "dev-main",
-        "potter/clock": "dev-main"
+        "potter/clock": "dev-main",
+        "potter/cloneable": "dev-main"
     },
     "license": "MIT",
     "authors": [
